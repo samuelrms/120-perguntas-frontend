@@ -23,7 +23,6 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
 [FrontEnd Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)<br/>
 [Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions#what-is-vuejs)
 
-
 ## Junior
 
   
@@ -155,7 +154,6 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
 29.`Qual a função dos prototypes no JavaScript?`<br/>
 
 30.`O que são High Order Functions`<br/><br/> 
-
 
 
 ## Senior
